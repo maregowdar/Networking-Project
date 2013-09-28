@@ -1,0 +1,30 @@
+											Todd Detweiler
+				Assignment 3 output
+
+
+RF layer (v1.7) initialized at Mon Oct 08 21:33:58 PDT 2012 (/10.150.1.249)
+Using a random MAC address: 5025
+Recieved: [ 4 -46 0 0 1 58 67 -51 22 9  ]
+Host 1234 says time is 1349757244937
+Sent Packet: 5025 1349757247011    [ 19 -95 0 0 1 58 67 -51 30 35  ]
+Sent Packet: 5025 1349757249282    [ 19 -95 0 0 1 58 67 -51 39 2  ]
+Recieved: [ 7 63 0 0 1 58 67 -51 35 -10  ]
+Host 1855 says time is 1349757248502
+Sent Packet: 5025 1349757253565    [ 19 -95 0 0 1 58 67 -51 55 -67  ]
+Recieved: [ 4 -46 0 0 1 58 67 -51 44 -77  ]
+Host 1234 says time is 1349757250739
+Sent Packet: 5025 1349757257693    [ 19 -95 0 0 1 58 67 -51 71 -35  ]
+Sent Packet: 5025 1349757262393    [ 19 -95 0 0 1 58 67 -51 90 57  ]
+Recieved: [ 4 -46 0 0 1 58 67 -51 77 -8  ]
+Host 1234 says time is 1349757259256
+Sent Packet: 5025 1349757267010    [ 19 -95 0 0 1 58 67 -51 108 66  ]
+Sent Packet: 5025 1349757268130    [ 19 -95 0 0 1 58 67 -51 112 -94  ]
+Recieved: [ 22 -18 0 0 1 58 67 -51 102 111  ]
+Host 5870 says time is 1349757265519
+Recieved: [ 22 -18 0 0 1 58 67 -51 107 -59  ]
+Host 5870 says time is 1349757266885
+Sent Packet: 5025 1349757272761    [ 19 -95 0 0 1 58 67 -51 -126 -71  ]
+Sent Packet: 5025 1349757273884    [ 19 -95 0 0 1 58 67 -51 -121 28  ]
+Recieved: [ 4 -46 0 0 1 58 67 -51 -121 48  ]
+Host 1234 says time is 1349757273904
+Sent Packet: 5025 1349757276311    [ 19 -95 0 0 1 58 67 -51 -112 -105  ]
